@@ -1,5 +1,4 @@
-# Zookeeper (Part 1) - NEEDS TO BE COMPLETED
-
+# Zookeeper (Part 1) - In Progress
 A zoo is a large, complex place with many animals that all need care. It is unrealistic for there to a staff member assigned to each animal to track their need and behavior at all times. One of the employees has suggested that we use cameras instead. She would like to be able to pull up a video feed of any animal in the zoo that also displays the animal type, the current time, and the current temperature in the habitat.
 
 ## Task 1 - Print animal information
