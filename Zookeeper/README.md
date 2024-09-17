@@ -17,6 +17,8 @@ Habitat temperature: 59.66F
 Next, we need to print the animal's image. First, you will figure out how to print the gorilla and some information about it. Next, you will print the camel using the printCamel() method and info about it. Then, you will print two more animals of your choosing: one will be like the gorilla and the other will be like the camel.
 In order to get an A, you will need to do the following: 
 * Reuse the code from the hippoPrinter method to print another animal of your own choosing. You can find ASCII animals by using this Google search query and replacing "kangaroo" with the animal you want
+* Store your ASCII image in a file and print the animal image from the file.
+* Have at least 4 animals
 ```
 site:http://www.ascii-art.de kangaroo
 ```
